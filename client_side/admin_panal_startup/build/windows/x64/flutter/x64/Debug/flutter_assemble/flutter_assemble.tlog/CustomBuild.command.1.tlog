@@ -1,0 +1,28 @@
+^C:\USERS\MPANGE\DESKTOP\ECOM_STARTUP_CODE\CLIENT_SIDE\ADMIN_PANAL_STARTUP\BUILD\WINDOWS\X64\CMAKEFILES\6ADD7408D9061B2D6A6A83FD30340AF5\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup FLUTTER_TARGET=C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9jNGNkNDhlMTg2NDYwYjMyZDQ0NTg1Y2UzYzEwMzI3MWFiNjc2MzU1Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MPANGE\DESKTOP\ECOM_STARTUP_CODE\CLIENT_SIDE\ADMIN_PANAL_STARTUP\BUILD\WINDOWS\X64\CMAKEFILES\48836F995A65D67C1157ECC943FDA892\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MPANGE\DESKTOP\ECOM_STARTUP_CODE\CLIENT_SIDE\ADMIN_PANAL_STARTUP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Mpange/Desktop/ecom_startup_code/client_side/admin_panal_startup/windows -BC:/Users/Mpange/Desktop/ecom_startup_code/client_side/admin_panal_startup/build/windows/x64 --check-stamp-file C:/Users/Mpange/Desktop/ecom_startup_code/client_side/admin_panal_startup/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,1 @@
+ C:\\Users\\Mpange\\Desktop\\ecom_startup_code\\client_side\\admin_panal_startup\\.dart_tool\\flutter_build\\3b5ef9f037b11ff438f6332da53347c3\\native_assets.yaml: 

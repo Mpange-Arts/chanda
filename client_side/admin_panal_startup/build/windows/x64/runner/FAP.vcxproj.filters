@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\run_loop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Mpange\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{26FD27C7-3C7E-33CB-B26B-D7D34D636564}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
